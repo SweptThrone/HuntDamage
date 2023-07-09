@@ -7,6 +7,7 @@ Hunt Damage recreates the damage types and effects (bleeding, poison, burning) f
 
 ## How do I use it?
 Drop the HuntDamage_addon folder into your addons folder.  Connecting clients will need the 196 KB sound/huntdmg/bandageloop.wav file.  
+This file is included in this Workshop addon: https://steamcommunity.com/sharedfiles/filedetails/?id=3001917957  
 
 ## Important notices
 This addon was not tested enough, may be missing features, and may not be terribly efficient.  You're encouraged to contribute and/or report issues.  
