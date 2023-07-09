@@ -11,3 +11,8 @@ Drop the HuntDamage_addon folder into your addons folder.  Connecting clients wi
 ## Important notices
 This addon was not tested enough, may be missing features, and may not be terribly efficient.  You're encouraged to contribute and/or report issues.  
 If a player has armor and starts bleeding or burning, this addon will near-instantly shred all of their armor.  I didn't know how I wanted to handle this, so I didn't.  
+
+## Demo videos
+https://www.youtube.com/watch?v=cjjqmGXGPR8  
+https://www.youtube.com/watch?v=kPJ2CyDxjWs  
+https://www.youtube.com/watch?v=0gfmHJMPH34  
